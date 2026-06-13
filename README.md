@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/banner.svg" alt="monopoly-tdd" width="100%">
+</p>
+
 # monopoly-tdd
 
 A small **Monopoly money-tracker** modeled test-first in TypeScript — a kata to practice **TDD** and clean domain modeling.

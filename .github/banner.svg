@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="monopoly-tdd">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14532d"/>
+      <stop offset="1" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <circle cx="1130" cy="70" r="230" fill="#fcd34d" opacity="0.12"/>
+  <circle cx="1190" cy="300" r="130" fill="#ffffff" opacity="0.05"/>
+  <rect x="80" y="268" width="64" height="8" rx="4" fill="#fcd34d"/>
+  <text x="80" y="185" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" fill="#ffffff">monopoly-tdd</text>
+  <text x="80" y="238" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#ffffff" opacity="0.85">Monopoly money-tracker test-first en TypeScript · kata TDD</text>
+  <text x="80" y="326" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#ffffff" opacity="0.6" letter-spacing="3">SOYERNO · GITHUB</text>
+</svg>
